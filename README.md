@@ -22,7 +22,7 @@ Sample Record :
 ```
 
 
-## Schema 
+## Fact and Dimension Table
 
 ![Image](images/aww-board.png)
 
